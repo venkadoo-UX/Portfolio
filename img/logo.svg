@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="35" viewBox="0 0 135 35">
+  <defs>
+    <clipPath id="clip-MD-Studio_Logo-V2_3">
+      <rect width="135" height="35"/>
+    </clipPath>
+  </defs>
+  <g id="MD-Studio_Logo-V2_3" data-name="MD-Studio Logo-V2 – 3" clip-path="url(#clip-MD-Studio_Logo-V2_3)">
+    <rect width="135" height="35" fill="rgba(0,0,0,0)"/>
+    <rect id="Background" width="135" height="35" fill="none"/>
+    <rect id="logo" width="139" height="35" transform="translate(1)" fill="none"/>
+    <text id="VENKADOO" transform="translate(68 29)" fill="#ff393c" font-size="36" font-family="Staatliches-Regular, Staatliches" letter-spacing="0.028em"><tspan x="-67.878" y="0">VENKA</tspan><tspan y="0" fill="#090909">DOO</tspan></text>
+    <text id="_" data-name="
+" fill="#111" stroke="#111" transform="translate(70.751 35.525)" stroke-width="1" font-size="46" font-family="KozGoPr6N-Bold, Kozuka Gothic Pr6N" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0"></tspan><tspan x="0" y="18"></tspan></text>
+  </g>
+</svg>
